@@ -1,0 +1,19 @@
+[
+    {
+        "id": 0,
+        "snakeName": "African Rock Python.",
+        "details": "Largest snake in Africa - up to 5m long; crushes its prey to death; generally nocturnal but seen during the day.",
+        "prey": "Dassies, hares, cane rats, birds; has been known to take impala and young antelope and warthogs.",
+        "habitat": "Mixed woodlands near water; very good tree climbers.",
+        "image": "https://i.ibb.co/tJNGQGZ/african-rock-python.jpg"
+        
+    },
+    {
+        "id": 1,
+        "snakeName": "Egyptian Cobra.",
+        "details": "Largest cobra, approx 1,5m long; when disturbed it rears up and displays a broad hood; very fast moving striker with toxic venom.",
+        "prey": "Small mammals, birds and their eggs, frogs",
+        "habitat": "Mixed woodlands near water",
+        "image": "https://i.ibb.co/XYRfjJC/Egyptian-Cobra.png"
+    }
+]
